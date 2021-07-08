@@ -11,7 +11,9 @@ If you need any help with this process because you are new to GitHub, git or spe
 
 ### What should I talk about?
 
-Anything you're passionate about, really. The talks don't have to be technical (but they certainly can be). The most important thing is that you're excited about your topic. That's the amazing thing about public speaking - you get to share your passions with the world. Just keep in mind that all talks must follow our [Code of Conduct](https://hhtml.de/code-of-conduct/).
+We'd like to cover HTML and related topics in the meetup. Some topic fields of interest are semantic markup, accessibility, screen readers, SEO, performance and progressive enhancement. But it is not limited to that.
+
+Anything you're passionate about is welcome. The talks don't have to be technical (but they certainly can be). The most important thing is that you're excited about your topic. That's the amazing thing about public speaking - you get to share your passions with the world. Just keep in mind that all talks must follow our [Code of Conduct](https://hhtml.de/code-of-conduct/).
 
 ### How long should my talk be?
 
